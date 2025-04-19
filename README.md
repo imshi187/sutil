@@ -8,7 +8,7 @@ The following part is a demo of how to use the sutil
 ```Python
 func main() {
   sw := IntSliceWrapper{
-  data: []int{10, 20, 30, 40},
+  Data: []int{10, 20, 30, 40},
 }
  
 // add
